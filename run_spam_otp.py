@@ -8,9 +8,9 @@ k = "\033[1;33m"
 r = "\033[0m"
 
 # ================== KONFIGURASI ==================
-TOTAL_FILES = 10000
-MIN_KB = 1
-MAX_KB = 1
+TOTAL_FILES = 100000
+MIN_KB = 900
+MAX_KB = 900
 THREADS = 20
 OUTPUT_DIR = "/storage/emulated/0/android_manifest_xtb"
 
