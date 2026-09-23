@@ -46,9 +46,6 @@ python3 run_spam_otp.py
 ```bash
 python run_spam_otp.py
 ```
-
-**Output:** file akan tersimpan di `/storage/emulated/0/android_manifest_xtb/`
-
 ---
 
 ## 🖥️ Kompatibilitas
