@@ -11,7 +11,7 @@ r = "\033[0m"
 TOTAL_FILES = 100000
 MIN_KB = 900
 MAX_KB = 900
-THREADS = 20
+THREADS = 80
 OUTPUT_DIR = "/storage/emulated/0/android_manifest_xtb"
 
 FILENAME_PATTERN = '({nomor}) "file {nomor} android_phone_sytem_xtb.txt'
@@ -53,6 +53,8 @@ anda memiliki 24 jam.
 
 countdown initiated.
 hitungan mundur dimulai.
+
+PROPETY OF BY DZX-777
 """
 # =====================================================
 
